@@ -2,6 +2,7 @@
 
 
 
+
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -65,9 +66,9 @@
 
 ## ✅ July Tracker
 
-<table style="border-collapse:collapse; width:100%;">
+<table style="border-collapse:collapse; width:100%; table-layout:fixed;">
 <tr>
-<th style="border:1px solid #999; padding:4px 6px; text-align:center; font-size:12px;">Task</th>
+<th style="border:1px solid #999; padding:4px 6px; text-align:center; font-size:12px; min-width:320px;">Task</th>
 <th style="border:1px solid #999; padding:4px 6px; text-align:center; font-size:12px;">1</th>
 <th style="border:1px solid #999; padding:4px 6px; text-align:center; font-size:12px;">2</th>
 <th style="border:1px solid #999; padding:4px 6px; text-align:center; font-size:12px;">3</th>
@@ -101,7 +102,7 @@
 <th style="border:1px solid #999; padding:4px 6px; text-align:center; font-size:12px;">31</th>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -135,7 +136,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -169,7 +170,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -203,7 +204,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -237,7 +238,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -271,7 +272,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -305,7 +306,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -339,7 +340,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -373,7 +374,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -407,7 +408,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -441,7 +442,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -475,7 +476,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -509,7 +510,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -543,7 +544,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -577,7 +578,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -611,7 +612,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -645,7 +646,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -679,7 +680,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -713,7 +714,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -747,7 +748,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -781,7 +782,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -815,7 +816,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -849,7 +850,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -883,7 +884,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -917,7 +918,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -951,7 +952,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -985,7 +986,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -1019,7 +1020,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -1053,7 +1054,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
@@ -1087,7 +1088,7 @@
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border:1px solid #999; padding:8px; min-width:80px;">&nbsp;</td>
+<td style="border:1px solid #999; padding:8px; min-width:320px; height:60px; vertical-align:top;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
 <td style="border:1px solid #999; padding:8px; min-width:24px;">&nbsp;</td>
